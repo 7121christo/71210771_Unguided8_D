@@ -1,0 +1,17 @@
+Terdapat 7 buah gelas kosong yang akan diisi air.
+Silahkan tentukan gelas mana yang terisi
+lebih dahulu dan berikan penjelasannya.
+
+
+Menurut saya gelas yang akan terisi terlebih dahulu
+adalah gelas nomor dua. Hal tersebut bisa dibuktikan
+dengan cara menuangkan air yang berada didalam teko
+lalu melihat lubang dimana air tersebut akan mengalir.
+Pada kotak pertama, terdapat dua pipa dan otomatis air akan
+mengalir dari tempat tinggi ketempat rendah. Maka air
+mengalir ke pipa disebelah kiri. Selanjutnya air ditampung
+dikotak yang selanjutnya, dan dikarenakan terdapat pipa
+dibawah kotak penampungan tersebut maka air akan langsung
+melewati pipa tersebut dan pipa tersebut mengarah kepada
+gelas nomor dua. Dengan itu maka gelas yang akan terisi penuh
+adalah gelas nomor dua.
