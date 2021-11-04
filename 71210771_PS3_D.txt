@@ -1,0 +1,10 @@
+Program Pencarian_Nilai_Faktorial_Matematika
+
+Deklarasi
+var:integer;
+
+algoritma
+n<-var
+n>=1
+faktorial<-n!=1*2*⋯*(n−2)*(n−1)*n
+write(faktorial)
